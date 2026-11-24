@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Checks</title>
+        <item>
+            <title>Checks 0.3</title>
+            <pubDate>Tue, 24 Nov 2026 23:48:56 GMT</pubDate>
+            <sparkle:version>202611242234</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text">Record a section of the screen or all of it. Take a whole window. Write about text you have selected. Say which model you are testing once. Mark a note Liked, Missed or Surprised. Checks now updates itself.</description>
+            <enclosure url="https://github.com/EveryInc/checks-downloads/releases/download/v0.3/Checks-0.3.dmg" length="6549892" type="application/octet-stream" sparkle:edSignature="SCZUIHzkaJWlbDdo8K8VQcey6lJs5UWus57vWxVpHhnVkMJ3nNAexwwvy7ZS7bFi04FCSX1xB1WeAFbhPLzaAA==" />
+        </item>
+    </channel>
+</rss>
