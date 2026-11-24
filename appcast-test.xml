@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Checks</title>
+        <item>
+            <title>Checks 0.3</title>
+            <pubDate>Tue, 24 Nov 2026 23:12:55 GMT</pubDate>
+            <sparkle:version>202611242234</sparkle:version>
+            <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text">Test update. Nothing to see here.</description>
+            <enclosure url="https://github.com/EveryInc/checks-downloads/releases/download/test-0.3-202611242234/Checks-0.3-B.dmg" length="6549892" type="application/octet-stream" sparkle:edSignature="SCZUIHzkaJWlbDdo8K8VQcey6lJs5UWus57vWxVpHhnVkMJ3nNAexwwvy7ZS7bFi04FCSX1xB1WeAFbhPLzaAA==" />
+        </item>
+    </channel>
+</rss>
