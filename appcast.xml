@@ -1,7 +1,24 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Checks</title>
+        <title>Capture</title>
+        <item>
+            <title>Capture 0.4</title>
+            <pubDate>Sat, 28 Nov 2026 00:12:14 GMT</pubDate>
+            <sparkle:version>202611280003</sparkle:version>
+            <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="plain-text">Checks is now called Capture. It updates in place, and your notes stay.
+
+Long recordings split into short clips, one for each thing you talk about.
+One bar for recordings and screenshots, with the keys 1 to 6. Nothing is asked after Keep.
+One field that listens or takes typing.
+Notes are grouped by model, and a click changes a note's model.
+The address of the page a note was made on is no longer sent to Checks.
+Rating a note is now on Checks.
+Clips that were too large to send are made smaller, and go.</description>
+            <enclosure url="https://github.com/EveryInc/checks-downloads/releases/download/v0.4/Capture-0.4.dmg" length="8767746" type="application/octet-stream" sparkle:edSignature="UuL3AKCUFvL8H0cGaE57oa2j+2HIiljekSCrnhf4rhSA95jyuX18EOYYeLgFqIP4oTZaa0iWba+fkbuhtl1wBw==" />
+        </item>
         <item>
             <title>Checks 0.3</title>
             <pubDate>Tue, 24 Nov 2026 23:48:56 GMT</pubDate>
